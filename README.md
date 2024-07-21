@@ -1,6 +1,7 @@
-# Cycle Coare Graining (CCG)
+# Cycle Coarse Graining (CCG)
 
-Code repo for the paper: Invertible Coarse Graining with Physics-Informed Generative Artificial Intelligence
+Code repo for the paper:
+Invertible Coarse Graining with Physics-Informed Generative Artificial Intelligence
 https://arxiv.org/abs/2305.01243
 
 Contains:
