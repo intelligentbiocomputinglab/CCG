@@ -1,0 +1,2 @@
+# CCG
+Cycle Coarse Graining
