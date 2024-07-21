@@ -4,7 +4,7 @@ Code repo for the paper:
 
 __Invertible Coarse Graining with Physics\-Informed Generative Artificial Intelligence__
 
-paper link: https://arxiv\.org/abs/2305\.01243
+paper link: https://arxiv.org/abs/2305.01243
 
 Contains:
 
